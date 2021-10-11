@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cv-maker-native",
+    "slug": "cv-maker-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cv-maker-native"
+}
